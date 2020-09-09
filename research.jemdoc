@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{research.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+
+== Selected Research Projects
+- *MIMO  Radars  Using  Sparse  Sensing*: MIMO  radars  require  huge  amount  of  data  and  very  high sampling rate, which are costly for sensing, collecting, and processing. This project proposes novel approaches based on sparse sensing for substantially reducing the amount of data, while ensuring radar performance. The models and algorithms have great potential for *big data* and *massive MIMO* applications.
+
+- *MIMO Radars and Communication Spectrum Sharing*: The exponentially increasing RF bandwidth
+demand and the spectrum resources scarcity raise an urgent need to improve the spectrum efficiency. Recently, the commercial wireless communication systems are allowed to access spectrum allocated to radar. It is challenging to accommodate the co-existence of two heterogenous systems, especially radars are usually used for public security purposes. This project proposes several frameworks to address the challenges by exploiting MIMO and OFDM techniques.
+
+- *Microphone Array Signal Processing for Speech and Traffic Audio Applications*:
+-- Implemented a realtime microphone array demo system with features including speech enhancement, speaker localization and automatic camera steering towards the active speaker.
+-- Prototyped a 32-channel microphone array (traffic) audio acquisition and processing platform for traffic  audio feature  extraction and  traffic  incident  detection; implemented  Delay\&Sum  and  MVDR beamforming for traffic audio preprocessing, achieving 10-15dB interference suppression.
