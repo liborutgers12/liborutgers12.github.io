@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{index.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+
+
+~~~
+{}{img_left}{Pictures/Bo Li.jpg}{alt text}{224}{200}{http://eceweb1.rutgers.edu/~bl352/}
+== Bo Li, Ph.D. \n
+[http://www.ece.rutgers.edu/~cspl/index.html CSPL]
+[http://www.ece.rutgers.edu/ ECE Department]\n
+[http://www.rutgers.edu/ Rutgers University]\n
+~~~
+
+# == \[[index.html Home]\]  ~ ~ ~ ~ ~ ~ ~ ~   \[[research.html Research]\]
+
+== About me
+
+I defended my dissertation on Sep. 30, 2016 and obtained my Ph.D. degree from Rutgers ECE Department. During the 4 years' study at Rutgers, I was working in the CSPL under surpervision of Professor [http://www.ece.rutgers.edu/faculty/petropulu Athina Petropulu]. I obtained my M.S. degree from Peking University in 2012. My advisor is [http://adsp.pkusz.edu.cn/ Prof. Yue-Xian ZOU]. I received my B.S. degree in Communication Engineering from Lanzhou University in July 2009.  
+
+I will join Qualcomm Corporate R\&D as a Systems Engineer in December 2016.
+
+#Here are my [pdf/boli_resume.pdf resume] and [https://scholar.google.com/citations?user=i-9HzN8AAAAJ&hl=en Google scholar citation].
+
+== Research Interests
+- Wireless communications, Spectrum sensing \& sharing
+- Statistical signal processing, detection\&estimation, convex/nonlinear optimization 
+- Sparse and low rank signal processing: compressed sensing, matrix completion
+- MIMO radar, sensor array
+- Acoustic, audio, speech signal processing
+
+For more information, please see the [research.html Research] page.
+
+== Contacts
+Office: CoRE 532, 94 Brett Rd., Piscataway, NJ 08854\n 
+#Tel: 848-445-8520 (office) \n
+Email: paul.bo.li \[AT\] rutgers \[DOT\] edu \n
+[http://eceweb1.rutgers.edu/~bl352/ http:\/\/eceweb1.rutgers.edu\/\~bl352/]

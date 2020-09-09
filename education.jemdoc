@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{education.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+
+== Education
+- Ph.D., Electrical and Computer Engineering, 2012 - 2016 \n
+  Rutgers, The State University of New Jersey \n
+  Advisor: Prof. Athina P. Petropulu
+
+- M.S., Electrical Engineering, 2009 - 2012 \n
+  Peking University \n
+  Advisors: Prof. Yuexian Zou \n
+
+- B.E., Electrical Engineering, 2005 - 2009 \n
+  Lanzhou University

@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{publications.html}
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+
+== Publications
+
+# === Submitted papers
+
+=== Journal papers
+. *B. Li* and A. Petropulu, \" Joint Transmit Designs for Co-existence of MIMO Wireless Communications and Sparse Sensing Radars in Clutter,\" /IEEE Trans. on Aerospace and Electronic Systems/, *accepted*, 2017 . \[[pdf/TAES17.pdf PDF]\] 
+. *B. Li*, A. Petropulu, and W. Trappe, \" Optimum Co-Design for Spectrum Sharing Between Matrix Completion Based MIMO Radars and a MIMO Communication System,\" /IEEE Transaction on Signal Processing/, vol. 64, no. 17, pp. 4562 - 4575, September 2016. \[[pdf/TSP16.pdf PDF]\] \[[http://arxiv.org/abs/1507.01982 Available on arXiv]\]
+. *B. Li* and A. Petropulu, \" Distributed MIMO Radar Based on Sparse Sensing: Analysis and Efficient Implementation,\" /IEEE Trans. on Aerospace and Electronic Systems/, vol. 51, no. 4, Oct. 2015. \[[pdf/TAES15.pdf PDF]\] 
+. Yuexian Zou, *Bo Li*  and C. H. Ritz, \" Multi-Source DOA Estimation Using an Acoustic Vector Sensor Array under a Spatial Sparse Representation Framework,\" /Circuits, Systems, and Signal Processing/, pp. 1-28, June 2015. 
+
+
+=== Conference papers
+. *B. Li* and A. Petropulu, \" Matrix Completion based MIMO Radars with Clutter and Interference Mitigation via Transmit Precoding,\" /IEEE International Conference on Acoustics, Speech and Signal Processing/, *accepted*, 2017. \[[pdf/ICASSP17.pdf PDF]\] \[[pdf/ICASSP17-extended.pdf Proof in Extended Version]\] 
+. *B. Li* and A. Petropulu, \" Spectrum Sharing Between MIMO-MC Radars and Communication Systems,\" /Asilomar Conference on Signals, Systems, and Computers/, Pacific Grove, CA, Nov. 06-09, 2016. \[[pdf/Asilomar16.pdf PDF]\] \[[pdf/Asilomar16Slides.pdf Slides]\]
+. *B. Li* and A. Petropulu, \" MIMO Radar and Communication Spectrum Sharing with Clutter Mitigation,\" /IEEE Radar Conference/, Philadelphia, PA, May 02-06, 2016. \[[pdf/RadarConf16.pdf PDF]\] \[[pdf/RadarConf16Slides.pdf Slides]\]
+. *B. Li*, H. Kumar, and A. Petropulu, \" A Joint Design Approach for Spectrum Sharing between Radar and Communication Systems,\" /IEEE International Conference on Acoustics, Speech and Signal Processing/, Shanghai, China, March 20-25, 2016. \[[pdf/ICASSP16.pdf PDF]\] \[[pdf/ICASSP16Poster.pdf Poster]\] \[[pdf/ICASSP16-proofprop.pdf Proof of Proposition 1]\] 
+. *B. Li* and A. Petropulu, \" Radar precoding for spectrum sharing between matrix completion based MIMO radars and a MIMO communication system,\" 3rd IEEE Global Conference on Signal and Information Processing (GlobalSIP 2015), Orlando, Florida, Dec. 14-16, 2015. \[[pdf/GlobalSIP15.pdf PDF]\] \[[pdf/GlobalSIP15Slides.pdf Slides]\] 
+. *B. Li* and A. Petropulu, \"Spectrum Sharing between Matrix Completion based MIMO Radars and A MIMO Communication System,\" /IEEE International Conference on Acoustics, Speech and Signal Processing/ (ICASSP 2015), Brisbane, Australia, April 19-24, 2015. \[[pdf/ICASSP15.pdf PDF]\] \[[pdf/ICASSP15Slides.pdf Slides]\] \[[https://youtu.be/6_RONb1nEcE Video Presentation]\] 
+. X. V. Yang, *B. Li*, and A. Petropulu, \"Colocated MIMO radars using the Sparse Fourier Transform,\" /31st International Review of Progress in Applied Computational Electromagnetics/ (ACES 2015), March 22-26, 2015. 
+. *B. Li* and A. Petropulu, \"RIP Analysis of the Measurement Matrix for Compressive Sensing-Based MIMO Radars,\" /The 8th IEEE Sensor Array and Multichannel Signal Processing Workshop/ (SAM 2014), A Coruna, Spain, June 22-25, 2014 (Invited). \[[pdf/SAM14.pdf PDF]\] \[[pdf/SAM14Poster.pdf Poster]\] 
+. *B. Li* and A. Petropulu, \"Efficient Target Estimation in Distributed MIMO Radar via the ADMM,\" /48th Annual Conference on Information Sciences & Systems/ (CISS 2014), Princeton, NJ, USA, March 19-21, 2014. \[[pdf/CISS14.pdf PDF]\] \[[pdf/CISS14Slides.pdf Slides]\] 
+. *B. Li* and A. Petropulu, \"Performance Guarantees for Distributed MIMO Radar Based on Sparse Sensing,\" IEEE Radar Conference, Cincinnati, OH, May 19- 23, 2014. \[[pdf/RadarConf14.pdf PDF]\] \[[pdf/RadarConf14Poster.pdf Poster]\]
+. *B. Li* and A. Petropulu, \"Structured sampling of structured signals,\" /1st IEEE Global Conference on Signal and Information Processing/, (GlobalSIP 2013), Austin, TX, USA, December 2013 (Invited). \[[pdf/GlobalSIP13.pdf PDF]\] \[[pdf/GlobalSIP13Poster.pdf Poster]\] 
+. Y. X. Zou, Wei Shi, *B. Li*, C. H. Ritz, and Jiangtao Xi, \"Multisource DOA Estimation Based on Time-frequency Sparsity and Joint Inter-sensor Data Ratio with Single Acoustic Vector Sensor,\" /2013 IEEE International Conference on Acoustics, Speech and Signal Processing/, vol., no., pp.4011-4015, 26-31 May 2013. (Part of my master thesis). 
+. *B. Li* and Yuexian ZOU, \"Improved DOA Estimation with Acoustic Vector Sensor Arrays Using Spatial Sparsity and Subarray Manifold,\" /IEEE International Conference on Acoustics, Speech and Signal Processing/ (ICASSP 2012), vol., no., pp.2557-2560, 25-30 March 2012 (Student Travel Grant). \[PDF\] (Part of my master thesis). 
+. Yuexian ZOU, *B. Li* and Xiao CHEN, \"An Efficient Blind Timing Skews Estimation For Time-Interleaved Analog-To-Digital Converters\", /17th International Conference on Digital Signal Processing/ (DSP 2011), pp.1-4, Corfu, Greece, July 2011.\[PDF\] 
+. *B. Li*, Yuexian ZOU and Yuesheng ZHU, \"Direction Estimation Under Compressive Sensing Framework: A Review and Experimental Results\", /7th International Conference on Information and Automation/ (IEEE ICIA 2011), pp.63-68, Shenzhen, China, June 2011 (Best Paper Finalist: 10/168).\[PDF\]; 
+. Yue-Xian ZOU, *B. Li* and Wei LIU, \"A Broadband Speech Enhancement Technique Based on Frequency Invariant Beamforming and GSC,\" /2010 International Conference on Green Circuits and Systems/ (ICGCS 2010), pp.175-179, Shanghai, China, June 2010. \[PDF\] 
+
+~~~
+{IEEE copyright disclaimer}
+This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.
+~~~
+
