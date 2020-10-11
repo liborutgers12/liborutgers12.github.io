@@ -4,10 +4,11 @@
 
 == Publications
 
-# === Submitted papers
+=== Book Chapters
+. *B. Li* and A. Petropulu, \" Cooperative Spectrum Sharing between Sparse Sensing-Based Radar and Communication Systems,\"  In A. De Maio, Y. Eldar, & A. Haimovich (Eds.), Compressed Sensing in Radar Signal Processing (pp. 284-320), 2019 Cambridge: Cambridge University Press. doi:10.1017/9781108552653.011
 
 === Journal papers
-. *B. Li* and A. Petropulu, \" Joint Transmit Designs for Co-existence of MIMO Wireless Communications and Sparse Sensing Radars in Clutter,\" /IEEE Trans. on Aerospace and Electronic Systems/, *accepted*, 2017 . \[[pdf/TAES17.pdf PDF]\] 
+. *B. Li* and A. Petropulu, \" Joint Transmit Designs for Co-existence of MIMO Wireless Communications and Sparse Sensing Radars in Clutter,\" /IEEE Trans. on Aerospace and Electronic Systems/, vol. 53, no. 6, pp 2846-2864, December 2017. \[[pdf/TAES17.pdf PDF]\] 
 . *B. Li*, A. Petropulu, and W. Trappe, \" Optimum Co-Design for Spectrum Sharing Between Matrix Completion Based MIMO Radars and a MIMO Communication System,\" /IEEE Transaction on Signal Processing/, vol. 64, no. 17, pp. 4562 - 4575, September 2016. \[[pdf/TSP16.pdf PDF]\] \[[http://arxiv.org/abs/1507.01982 Available on arXiv]\]
 . *B. Li* and A. Petropulu, \" Distributed MIMO Radar Based on Sparse Sensing: Analysis and Efficient Implementation,\" /IEEE Trans. on Aerospace and Electronic Systems/, vol. 51, no. 4, Oct. 2015. \[[pdf/TAES15.pdf PDF]\] 
 . Yuexian Zou, *Bo Li*  and C. H. Ritz, \" Multi-Source DOA Estimation Using an Acoustic Vector Sensor Array under a Spatial Sparse Representation Framework,\" /Circuits, Systems, and Signal Processing/, pp. 1-28, June 2015. 
