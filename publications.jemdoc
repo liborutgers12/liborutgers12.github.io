@@ -10,12 +10,20 @@
 === Journal papers
 . *B. Li* and A. Petropulu, \" Joint Transmit Designs for Co-existence of MIMO Wireless Communications and Sparse Sensing Radars in Clutter,\" /IEEE Trans. on Aerospace and Electronic Systems/, vol. 53, no. 6, pp 2846-2864, December 2017. \[[pdf/TAES17.pdf PDF]\] 
 . *B. Li*, A. Petropulu, and W. Trappe, \" Optimum Co-Design for Spectrum Sharing Between Matrix Completion Based MIMO Radars and a MIMO Communication System,\" /IEEE Transaction on Signal Processing/, vol. 64, no. 17, pp. 4562 - 4575, September 2016. \[[pdf/TSP16.pdf PDF]\] \[[http://arxiv.org/abs/1507.01982 Available on arXiv]\]
+. J. Qian, Z. He, N. Huang, and *B. Li*, “Transmit Designs for Spectral Coexistence of MIMO Radar and
+MIMO Communication Systems,” IEEE Transactions on Circuits and Systems II: Express Briefs, vol.
+65, no. 12, pp. 2072-2076, Dec. 2018
 . *B. Li* and A. Petropulu, \" Distributed MIMO Radar Based on Sparse Sensing: Analysis and Efficient Implementation,\" /IEEE Trans. on Aerospace and Electronic Systems/, vol. 51, no. 4, Oct. 2015. \[[pdf/TAES15.pdf PDF]\] 
 . Yuexian Zou, *Bo Li*  and C. H. Ritz, \" Multi-Source DOA Estimation Using an Acoustic Vector Sensor Array under a Spatial Sparse Representation Framework,\" /Circuits, Systems, and Signal Processing/, pp. 1-28, June 2015. 
 
 
 === Conference papers
-. *B. Li* and A. Petropulu, \" Matrix Completion based MIMO Radars with Clutter and Interference Mitigation via Transmit Precoding,\" /IEEE International Conference on Acoustics, Speech and Signal Processing/, *accepted*, 2017. \[[pdf/ICASSP17.pdf PDF]\] \[[pdf/ICASSP17-extended.pdf Proof in Extended Version]\] 
+. A. Dimas, M. A. Clark, *B. Li*, K. Psounis, A. Petropulu, “On Radar Privacy in Shared Spectrum
+Scenarios”, IEEE International Conference on Acoustics, Speech and Signal Processing, Brighton, UK,
+May 12-17, 2019.
+. A. Dimas, *B. Li*, M. Clark, K. Psounis, A. Petropulu, “Spectrum sharing between radar and commu-
+nication systems: Can the privacy of the radar be preserved?”, 51st Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Oct. 29 - Nov. 1, 2017.
+. *B. Li* and A. Petropulu, \" Matrix Completion based MIMO Radars with Clutter and Interference Mitigation via Transmit Precoding,\" /IEEE International Conference on Acoustics, Speech and Signal Processing/, New Orleans, Mar. 05-09, 2017. \[[pdf/ICASSP17.pdf PDF]\] \[[pdf/ICASSP17-extended.pdf Proof in Extended Version]\] 
 . *B. Li* and A. Petropulu, \" Spectrum Sharing Between MIMO-MC Radars and Communication Systems,\" /Asilomar Conference on Signals, Systems, and Computers/, Pacific Grove, CA, Nov. 06-09, 2016. \[[pdf/Asilomar16.pdf PDF]\] \[[pdf/Asilomar16Slides.pdf Slides]\]
 . *B. Li* and A. Petropulu, \" MIMO Radar and Communication Spectrum Sharing with Clutter Mitigation,\" /IEEE Radar Conference/, Philadelphia, PA, May 02-06, 2016. \[[pdf/RadarConf16.pdf PDF]\] \[[pdf/RadarConf16Slides.pdf Slides]\]
 . *B. Li*, H. Kumar, and A. Petropulu, \" A Joint Design Approach for Spectrum Sharing between Radar and Communication Systems,\" /IEEE International Conference on Acoustics, Speech and Signal Processing/, Shanghai, China, March 20-25, 2016. \[[pdf/ICASSP16.pdf PDF]\] \[[pdf/ICASSP16Poster.pdf Poster]\] \[[pdf/ICASSP16-proofprop.pdf Proof of Proposition 1]\] 
